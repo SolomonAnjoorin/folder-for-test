@@ -38,3 +38,6 @@
   }
   #app {
     overflow-y: scroll;}
+    .App video {
+      animation-play-state: running;
+    }
